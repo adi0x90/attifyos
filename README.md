@@ -1,54 +1,72 @@
-# AttifyOS
+# AttifyOS v3.0
 
-### Attify OS - Distro for pentesting IoT devices 
+AttifyOS is a distro intended to help you perform security assessment and penetration testing of Internet of Things (IoT) devices. It saves you a lot of time by providing a pre-configured environment with all the necessary tools loaded. The new version is based on Ubuntu 18.04 64-Bit - that also means that you'll receive updates for this version till April 2023.
 
-Instead of spending time installing, configuring and setting up various tools required for IoT pentesting, here is a pre-made distro for you containing the tools that would come handy during any Internet of Things Security Assessment or Penetration testing. 
+**Disclaimer** - Make sure you only tests the target for which you have proper authorization of. You hold all responsibilities of what you decide to do with it. 
 
 ### Download Links 
 
-Mega - https://mega.nz/#!1wFj3BpD!CxWyCXW3IPkmBHoNGWcFdL0UFr-3uw2Z03ijaW0G0e4 
+Google Drive - [https://drive.google.com/drive/folders/1C5BKrpoCtxqZODbF0A-tt0UNjx-UmKt3](https://drive.google.com/drive/folders/1C5BKrpoCtxqZODbF0A-tt0UNjx-UmKt3 "https://drive.google.com/drive/folders/1C5BKrpoCtxqZODbF0A-tt0UNjx-UmKt3")
 
-Google Drive - https://drive.google.com/file/d/0Bz-2-OHt_4gQTkNYb21RRXBuNlE/view?usp=sharing 
+
 
 ### Tools Included 
 
-#### Embedded 
-+ Binwalk 
-+ Attify Badge tool
-+ Baudrate.py 
-+ Openocd 
-+ Flashrom 
-+ Spiflash.py 
-
-#### Firmware and Software 
-+ Binwalk
-+ Firmware-Mod-Kit (FMK)
-+ Firmware Analysis Toolkit (FAT) 
-+ radare2 
-+ IDA Demo 
-+ Dex2Jar 
-+ JADx 
-+ ROPGadget 
-
-#### Radio 
-+ GQRX 
-+ GNURadio 
-+ Ubertooth-Utils
-+ HackRF 
-+ KillerBee / Attify ZigBee Framework 
+- Arduino
+- Baudrate
+- BDAddr
+- BetterCap
+- Binwalk
+- Create_AP
+- Cutter
+- DspectrumGUI
+- Dump1090
+- Firmadyne
+- Firmware Analysis Toolkit
+- Firmware Analysis Toolkit (FAT)
+- Firmware-Mod-Kit (FMK)
+- GHIDRA
+- GNURadio
+- GQRX
+- GR-GSM
+- GR-Paint
+- HackRF Tools
+- HackRF tools
+- Inspectrum
+- JADx
+- Kalibrate-RTL
+- KillerBee
+- LibMPSSE
+- Liquid-DSP
+- LTE-Cell-Scanner
+- NMAP
+- OOK-Decoder
+- Qiling
+- radare2
+- RFCat
+- RouterSploit
+- RTL-433
+- RTL-SDR tools
+- Scapy
+- Spectrum Painter
+- Ubertooth tools-
+- URH (Universal Radio Hacker)
 
 ### Credentials 
 
-`oit` : `attify123` 
+`iot` : `attify` 
 
 ### How does it look like 
 
-Pretty normal. It's still in the early stages. So, there's nothing fancy as such in the distro. 
 
-[![Attify OS Screenshot](https://user-images.githubusercontent.com/1782493/28253497-e61ce54c-6aa4-11e7-811c-26d06ec521f5.png)](#screenshot)
+![Attify OS Screenshot 1](images/attifyos-home.png)
+![Attify OS Screenshot 2](images/attifyos-fish-autocomplete.png)
+![Attify OS List of tools](images/attifyos-tools.png)
+![Attify OS Screenshot 3](images/attifyos-bettercap.png)
+![Attify OS Screenshot 4](images/attifyos-inspectrum.png)
 
-[![Screenshot 2](https://user-images.githubusercontent.com/1782493/28253532-24e26cca-6aa5-11e7-9594-20c9e4e8805a.png)](#screenshot2)
 
-### Notes 
 
-For any feedback or issue, feel free to create an issue here or reach out to me over Twitter - [@adi1391](https://twitter.com/adi1391) 
+### Credits 
+
+Aditya Gupta ([@adi1391](https://twitter.com/adi1391 "@adi1391")) and Barun Basak ([@0xec_](https://twitter.com/0xec_ "@0xec_")) of [Attify Team](https://attify-store.com)
