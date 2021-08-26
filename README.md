@@ -2,7 +2,7 @@
 
 AttifyOS is a distro intended to help you perform security assessment and penetration testing of Internet of Things (IoT) devices. It saves you a lot of time by providing a pre-configured environment with all the necessary tools loaded. The new version is based on Ubuntu 18.04 64-Bit - that also means that you'll receive updates for this version till April 2023.
 
-**Disclaimer** - Make sure you only tests the target for which you have proper authorization of. You hold all responsibilities of what you decide to do with it. 
+**Disclaimer** - Make sure you only test the target for which you have proper authorization . You hold all responsibilities of what you decide to do with it. 
 
 ### Download Links 
 
